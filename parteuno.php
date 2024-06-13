@@ -97,5 +97,5 @@ class JuegosPequeños {
         array_push($this->nombre,$nombres);
     }
 }
-
+//Tu cola Fabio
 ?>
