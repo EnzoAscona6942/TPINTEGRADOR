@@ -21,6 +21,7 @@ class Feria{
     public $juegosGrandes = [];
     public $juegosMedianos = [];
     public $juegosChicos = [];
+    public $horarioapertura = Datetime::__set_state("15:00");
     
     CONST NOMBRESJUEGOS = [
         "JuegosGrandes" => ["MontañaRusa", "RuedaDeLaFortuna", "EVOLUTION"],
@@ -101,6 +102,6 @@ class JuegosPequeños {
     }
 }
 class persona{
-    Dinero = random_int();
+    public $platita = random_int(30,200);
 }
 ?>
