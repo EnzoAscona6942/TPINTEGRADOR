@@ -100,4 +100,7 @@ class JuegosPequeños {
         array_push($this->nombre,$nombres);
     }
 }
+class persona{
+    Dinero = random_int();
+}
 ?>
